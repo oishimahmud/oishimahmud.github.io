@@ -12,8 +12,9 @@ redirect_from:
 
 
 - I am Oishi Mahmud and currently I am working as a Software Engineer II in Test at <a href="https://www.infolytx.com/" target="_blank">Infolytx Bangladesh Limited</a> since August 2021. My daily responsibilities as a Software Engineer at Infolytx include designing well-structured test cases, scraping and organizing data from websites, performing non-functional tests (e.g., security test, load test, and performance test) to ensure successfull deliveries with little or no issues.
-- Prior to joining Infolytx, I worked as a SQA Engineer at Technology and Business Solutions Ltd and BitMascot within the period of September 2019 and August 2021. I obtained my Postgraduate Diploma in Information Technology from University of Dhaka in 2018 and B.Sc in Computer Science and Engineering from Ahsanullah University of Science and Technology in 2016.
-- While working in different software industries, I've developed a strong passion for research in computer graphics, animation, natural language processing, smart healthcare and artificial intelligence.  My goal is to explore new and exciting ideas and to solve them to make a positive impact on people's lives.
+- Prior to joining Infolytx, I worked as a SQA Engineer at Technology and Business Solutions Ltd and BitMascot within the period of September 2019 and August 2021. During this period, I used to analyze the software requirements and design well-structured test cases that covers the edge and corner case. Moreover, I performed functional and regression tests on critical features such as concurrency and automatic billing system.
+- I obtained my Postgraduate Diploma in Information Technology from University of Dhaka in 2018 and Bachelor in Computer Science and Engineering from Ahsanullah University of Science and Technology in 2016.
+- While working in different software industries, I've developed a strong passion for research in computer graphics, animation, natural language processing, smart healthcare and artificial intelligence.  My goal is to explore new and exciting ideas and to solve them to make a positive impact on people's lives. 
 
 
 News!
