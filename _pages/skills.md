@@ -7,9 +7,11 @@ author_profile: true
 
 
 *  Programming Language and Application Framework <br>
-   - C, C++, C#, Java,ASP.NET, ASP.NET MVC <br>
+   - C, C++, C#, Python, Java, ASP.NET, ASP.NET MVC, Entity Framework <br>
 *  Website Development and Design <br>
-   - HTML, CSS, JavaScript <br>
+   - HTML, CSS, JavaScript, Ajax ASP, Jquery, Bootstrap <br>
+*  Database <br>
+   - SQL, MSSQL Server, LINQ <br>
 *  Data Mining and Web Crawling Tools <br>
    - Weka, Jsoup Parser, Scrapy <br>   
 *  Automation Frameworks and APIs <br>
