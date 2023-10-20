@@ -8,4 +8,4 @@ author_profile: true
 {% include base_path %}
 
 
-[My full CV can be found here](https://github.com/oishimahmud/oishimahmud.github.io/blob/master/files/CV_Oishi_Mahmud.pdf)
+[My full CV can be found here](https://github.com/oishimahmud/oishimahmud.github.io/blob/master/files/CV_Oishi.pdf)
