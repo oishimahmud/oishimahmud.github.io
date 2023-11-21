@@ -19,6 +19,7 @@ redirect_from:
 
 News!
 ======
+- (October 2023) Passed the <a href="https://www.istqb.org/certifications/certified-tester-foundation-level" target="_blank">Certified Tester Foundation Level (CTFL)</a>  organized by International Software Testing Qualification Board.
 - (August 2023) 2 years at Infolytx Bangladesh Limited.
 
 
